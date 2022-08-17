@@ -33,6 +33,7 @@ form button {
     padding: 0.5rem;
     font-size: 2rem;
     border: none;
+    outline: none;
     background: #eaebed;
 }
 
